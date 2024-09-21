@@ -104,13 +104,13 @@ bash
 Скриншоты
 
     Настройка git и создание папок: Создание файлов
- https://github.com/etozhegatito/devops_git/blob/651d5b8447e1cded55fb5bdc8b8fd76fb4071275/1.png
+https://github.com/etozhegatito/devops_git/blob/master/1.png?raw=true
 
     Создание файла и вывод текущего пути: Создание readme.txt
-   https://github.com/etozhegatito/devops_git/blob/651d5b8447e1cded55fb5bdc8b8fd76fb4071275/2.png
+https://github.com/etozhegatito/devops_git/blob/master/2.png?raw=true
 
     Создание файла с Bash скриптом и вывод чисел: Bash-скрипт
-   https://github.com/etozhegatito/devops_git/blob/651d5b8447e1cded55fb5bdc8b8fd76fb4071275/3.png
+https://github.com/etozhegatito/devops_git/blob/master/3.png?raw=true
 
 Спасибо за внимание! Если у вас есть вопросы или предложения, буду рад обсудить их. 😊
 
