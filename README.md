@@ -104,27 +104,16 @@ bash
 Скриншоты
 
     Настройка git и создание папок: Создание файлов
-    https://github.com/etozhegatito/devops_git/blob/651d5b8447e1cded55fb5bdc8b8fd76fb4071275/1.png
+ https://github.com/etozhegatito/devops_git/blob/651d5b8447e1cded55fb5bdc8b8fd76fb4071275/1.png
 
     Создание файла и вывод текущего пути: Создание readme.txt
-    https://github.com/etozhegatito/devops_git/blob/651d5b8447e1cded55fb5bdc8b8fd76fb4071275/2.png
+   https://github.com/etozhegatito/devops_git/blob/651d5b8447e1cded55fb5bdc8b8fd76fb4071275/2.png
 
     Создание файла с Bash скриптом и вывод чисел: Bash-скрипт
-    https://github.com/etozhegatito/devops_git/blob/651d5b8447e1cded55fb5bdc8b8fd76fb4071275/3.png
+   https://github.com/etozhegatito/devops_git/blob/651d5b8447e1cded55fb5bdc8b8fd76fb4071275/3.png
 
 Спасибо за внимание! Если у вас есть вопросы или предложения, буду рад обсудить их. 😊
 
 
 
----
 
-### Как обновить README.md:
-
-1. Открой файл `README.md` в своём проекте.
-2. Замени содержимое на то, что я написал выше.
-3. Сохрани изменения и закоммить их:
-
-```bash
-git add README.md
-git commit -m "Обновлен README с инструкцией и скриншотами"
-git push
