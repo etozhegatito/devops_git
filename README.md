@@ -113,6 +113,11 @@ bash
 ![image alt](https://github.com/etozhegatito/devops_git/blob/651d5b8447e1cded55fb5bdc8b8fd76fb4071275/3.png)
 
 
+MY CV
+
+![image alt](https://github.com/etozhegatito/devops_git/blob/a86701a5546f89197e21f6ab136b7db83b804740/My%20Resume-1-1.png)
+
+
 Спасибо за внимание! Если у вас есть вопросы или предложения, буду рад обсудить их. 😊
 
 
